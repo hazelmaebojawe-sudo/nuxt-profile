@@ -17,7 +17,6 @@ function fromHash() {
 onMounted(fromHash)
 watch(() => route.hash, fromHash)
 
-// Replace with your own details
 const info = [
   { label: 'Full name', value: 'Hazel Mae P. Bojawe' },
   { label: 'Age', value: '20 years old' },

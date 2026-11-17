@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// Set your own levels (0-100)
 const skills = [
   { name: 'HTML', level: 90 },
   { name: 'CSS', level: 80 },
